@@ -1,0 +1,9 @@
+C:\Users\gios\Downloads\jueguitos terrminado\jueguitos terrminado\obj\Debug\jueguitos_terrminado.Form1.resources
+C:\Users\gios\Downloads\jueguitos terrminado\jueguitos terrminado\obj\Debug\SimpleFlightGame.Properties.Resources.resources
+C:\Users\gios\Downloads\jueguitos terrminado\jueguitos terrminado\obj\Debug\SimpleFlightGame.csproj.GenerateResource.cache
+C:\Users\gios\Downloads\jueguitos terrminado\jueguitos terrminado\obj\Debug\SimpleFlightGame.csproj.CoreCompileInputs.cache
+C:\Users\gios\Downloads\jueguitos terrminado\jueguitos terrminado\bin\Debug\SimpleFlightGame.exe.config
+C:\Users\gios\Downloads\jueguitos terrminado\jueguitos terrminado\bin\Debug\SimpleFlightGame.exe
+C:\Users\gios\Downloads\jueguitos terrminado\jueguitos terrminado\bin\Debug\SimpleFlightGame.pdb
+C:\Users\gios\Downloads\jueguitos terrminado\jueguitos terrminado\obj\Debug\SimpleFlightGame.exe
+C:\Users\gios\Downloads\jueguitos terrminado\jueguitos terrminado\obj\Debug\SimpleFlightGame.pdb

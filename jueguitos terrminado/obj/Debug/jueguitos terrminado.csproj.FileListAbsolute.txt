@@ -1,0 +1,9 @@
+C:\Users\gio\source\repos\jueguitos terrminado\jueguitos terrminado\bin\Debug\jueguitos terrminado.exe.config
+C:\Users\gio\source\repos\jueguitos terrminado\jueguitos terrminado\bin\Debug\jueguitos terrminado.exe
+C:\Users\gio\source\repos\jueguitos terrminado\jueguitos terrminado\bin\Debug\jueguitos terrminado.pdb
+C:\Users\gio\source\repos\jueguitos terrminado\jueguitos terrminado\obj\Debug\jueguitos terrminado.csprojAssemblyReference.cache
+C:\Users\gio\source\repos\jueguitos terrminado\jueguitos terrminado\obj\Debug\jueguitos_terrminado.Form1.resources
+C:\Users\gio\source\repos\jueguitos terrminado\jueguitos terrminado\obj\Debug\jueguitos_terrminado.Properties.Resources.resources
+C:\Users\gio\source\repos\jueguitos terrminado\jueguitos terrminado\obj\Debug\jueguitos terrminado.csproj.GenerateResource.cache
+C:\Users\gio\source\repos\jueguitos terrminado\jueguitos terrminado\obj\Debug\jueguitos terrminado.exe
+C:\Users\gio\source\repos\jueguitos terrminado\jueguitos terrminado\obj\Debug\jueguitos terrminado.pdb
